@@ -32,3 +32,26 @@ These instructions will help you get a copy of the project up and running on you
 
 1. Clone the repository to your local machine using the following command:
 
+git clone https://github.com/abdul3051/JokeMania.git
+
+
+2. Open the project in Xcode by double-clicking the `Jokemania.xcodeproj` file.
+
+3. Build and run the project in the Xcode simulator or on a physical device.
+
+## Usage
+
+- Upon launching the app, jokes will start appearing in the scrollable list.
+- The list will display a maximum of 10 jokes, with new jokes replacing old ones.
+- The header at the top of the screen shows the title "Jokes of the Day" in colorful and animating text.
+- The bell icon in the header indicates the presence of new jokes. It will change color when a new joke is added.
+- Tapping the bell icon will scroll the list to the newly added joke, highlighting it with a subtle animation.
+- Previous jokes will be displayed upon logging in again.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Jokes API provided by [https://geek-jokes.sameerkumar.website/api](https://geek-jokes.sameerkumar.website/api)
