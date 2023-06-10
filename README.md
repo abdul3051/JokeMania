@@ -35,7 +35,7 @@ These instructions will help you get a copy of the project up and running on you
 git clone https://github.com/abdul3051/JokeMania.git
 
 
-2. Open the project in Xcode by double-clicking the `Jokemania.xcodeproj` file.
+2. Open the project in Xcode by double-clicking the `JokeMania.xcodeproj` file.
 
 3. Build and run the project in the Xcode simulator or on a physical device.
 
